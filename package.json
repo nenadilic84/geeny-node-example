@@ -1,0 +1,17 @@
+{
+  "name": "step-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "axios": "^0.16.2",
+    "sleep": "^5.1.1",
+    "base-64": "^0.1.0"
+  }
+}
